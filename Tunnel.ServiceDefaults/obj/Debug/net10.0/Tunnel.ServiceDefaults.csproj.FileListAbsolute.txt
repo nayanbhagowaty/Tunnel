@@ -1,0 +1,12 @@
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\bin\Debug\net10.0\Tunnel.ServiceDefaults.deps.json
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\bin\Debug\net10.0\Tunnel.ServiceDefaults.dll
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\bin\Debug\net10.0\Tunnel.ServiceDefaults.pdb
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\obj\Debug\net10.0\Tunnel.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\obj\Debug\net10.0\Tunnel.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\obj\Debug\net10.0\Tunnel.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\obj\Debug\net10.0\Tunnel.ServiceDefaults.AssemblyInfo.cs
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\obj\Debug\net10.0\Tunnel.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\obj\Debug\net10.0\Tunnel.ServiceDefaults.dll
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\obj\Debug\net10.0\refint\Tunnel.ServiceDefaults.dll
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\obj\Debug\net10.0\Tunnel.ServiceDefaults.pdb
+C:\Users\a436338\source\repos\Tunnel\Tunnel.ServiceDefaults\obj\Debug\net10.0\ref\Tunnel.ServiceDefaults.dll

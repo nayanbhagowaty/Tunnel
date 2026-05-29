@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Tunnel.Shared/1.0.0": {
+        "runtime": {
+          "Tunnel.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tunnel.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

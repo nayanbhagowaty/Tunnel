@@ -1,0 +1,11 @@
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\bin\Debug\net10.0\Tunnel.Shared.deps.json
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\bin\Debug\net10.0\Tunnel.Shared.dll
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\bin\Debug\net10.0\Tunnel.Shared.pdb
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\obj\Debug\net10.0\Tunnel.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\obj\Debug\net10.0\Tunnel.Shared.AssemblyInfoInputs.cache
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\obj\Debug\net10.0\Tunnel.Shared.AssemblyInfo.cs
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\obj\Debug\net10.0\Tunnel.Shared.csproj.CoreCompileInputs.cache
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\obj\Debug\net10.0\Tunnel.Shared.dll
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\obj\Debug\net10.0\refint\Tunnel.Shared.dll
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\obj\Debug\net10.0\Tunnel.Shared.pdb
+C:\Users\a436338\source\repos\Tunnel\Tunnel.Shared\obj\Debug\net10.0\ref\Tunnel.Shared.dll

@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "Tunnel.AppHost/Tunnel.AppHost.csproj"
+  }
+}

@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="Tunnel.Agent.Tests/Tunnel.Agent.Tests.csproj" />
+    <Project Path="Tunnel.Server.Tests/Tunnel.Server.Tests.csproj" />
+  </Folder>
+  <Project Path="Tunnel.Agent/Tunnel.Agent.csproj" />
+  <Project Path="Tunnel.AppHost/Tunnel.AppHost.csproj" />
+  <Project Path="Tunnel.Server/Tunnel.Server.csproj" />
+  <Project Path="Tunnel.ServiceDefaults/Tunnel.ServiceDefaults.csproj" />
+  <Project Path="Tunnel.Shared/Tunnel.Shared.csproj" />
+</Solution>
